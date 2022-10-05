@@ -5,7 +5,7 @@ public class Calc {
         return result;
     }
     public static int subtract(int number1, int number2){
-        int RESULT = number1 + number2;
+        int RESULT = number1 - number2;
         return RESULT;
     }
 }
