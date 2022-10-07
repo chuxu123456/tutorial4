@@ -1,1 +1,1 @@
-groupId=chuxu    artifactId=com  package=tut4
+![example workflow](https://github.com/chuxu123456/tutorial4/actions/workflows/main.yml/badge.svg)
